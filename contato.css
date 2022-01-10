@@ -709,3 +709,10 @@ html {
   svg path {
     fill: black;
   }
+
+footer {
+    background-color: #000000;
+    padding-top: 5em;
+    padding-bottom: 40px;
+    border-top: 5px solid #292929;
+  }
