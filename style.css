@@ -23,7 +23,7 @@ color: #40E0D0;
 header {
     width: 100%;
     height: 100vh;
-    background: url('../imagens/Teste4.png') no-repeat 50% 50%;
+    background: url('Teste4.png') no-repeat 50% 50%;
     background-size: cover;
     margin-top: 0;
 }
